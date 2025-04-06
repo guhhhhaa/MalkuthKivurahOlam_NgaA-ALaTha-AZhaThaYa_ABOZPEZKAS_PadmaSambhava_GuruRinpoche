@@ -48,7 +48,7 @@ https://github.com/guhhhhaa/MalkuthKivurahOlam_NgaA-ALaTha-AZhaThaYa_ABOZPEZKAS_
 
 ![阿波兹派兹卡斯深渊地图](./阿波兹派兹卡斯深渊地图.jpg)
 
-![筮埘，释师，示世，贳祀，蓍誓，施](./筮埘，释师，示世，贳祀，蓍誓，施.jpg)
+
 
 ![筮埘，释师，示世，贳祀，蓍誓，施的副本](./筮埘，释师，示世，贳祀，蓍誓，施的副本.jpg)
 
