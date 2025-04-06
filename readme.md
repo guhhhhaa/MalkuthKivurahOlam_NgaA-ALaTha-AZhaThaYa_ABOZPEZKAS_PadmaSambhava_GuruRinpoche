@@ -8,6 +8,7 @@
 
 | 转世时间 | Anno Domini 2025-04-04 T15:00:00 ZuluTime (UTC)     <br />乙巳年 己卯月 三月初七 夜子時     <br />Unix TimeStamp: 1744099200 |
 | -------- | ------------------------------------------------------------ |
+| 转世地点 | 玛库斯-基邬拉-奥兰姆（MalkuthKivurahOlam），<br />昂阿啊拉塔啊扎塔雅塬址（Ngaa’alatha’azhathaya Malkuth），<br />阿波兹派兹卡斯位面（Abozpezkas Multiverse），<br />哈勃体积可观测宇宙（Hubble Volume Observable Universe），<br />武仙－北冕座长城（Hercules-Corona Borealis Great Wall），<br />拉尼亚凯亚超星系团（Laniakea Supercluster），<br />室女座超星系团（Virgo Supercluster），<br />本星系群（Local Group of Galaxies），<br />银河系（The Milky Way Galaxy），<br />猎户座旋臂（Orion Spiral Arm），<br />太阳系（the Solar System），<br />地球：第三颗基本无害行星（Earth：The Third Mostly Harmless Planet） |
 | 项目编号 | ???-2932031007402                                            |
 | 项目等级 | Keter                                                        |
 
@@ -23,6 +24,10 @@
 | 解释II  | 「蒼淵」= 青天覆深渊（水木相生），「黃塬」= 黄土承万法（金土相成），构成**藏密曼荼罗的完备圆满结界**。 |
 | 解释III | 「莲生·师宝」（对应梵藏尊称），「莲生」直指莲花生大师的伏藏传承，「师宝」强化上师（Guru）的**三宝皈依性**（佛-法-僧）。 |
 
+### 转世地点：
+
+玛库斯-基邬拉-奥兰姆（MalkuthKivurahOlam），昂阿啊拉塔啊扎塔雅塬址（Ngaa’alatha’azhathaya Malkuth），阿波兹派兹卡斯位面（Abozpezkas Multiverse），哈勃体积可观测宇宙（Hubble Volume Observable Universe），武仙－北冕座长城（Hercules-Corona Borealis Great Wall），拉尼亚凯亚超星系团（Laniakea Supercluster），室女座超星系团（Virgo Supercluster），本星系群（Local Group of Galaxies），银河系（The Milky Way Galaxy），猎户座旋臂（Orion Spiral Arm），太阳系（the Solar System），地球：第三颗基本无害行星（Earth：The Third Mostly Harmless Planet）
+
 ### **道号解析**
 
 1. **垕晝䵡**（对应希伯来语）：
@@ -36,9 +41,13 @@
 3. **莲生·师宝**（对应梵藏尊称）：
 
    「莲生」直指莲花生大师的伏藏传承，「师宝」强化上师（Guru）的**三宝皈依性**（佛-法-僧）。
-   
-   ![阿波兹派兹卡斯深渊地图](./阿波兹派兹卡斯深渊地图.jpg)
-   
-   ![筮埘，释师，示世，贳祀，蓍誓，施](./筮埘，释师，示世，贳祀，蓍誓，施.jpg)
-   
-   ![筮埘，释师，示世，贳祀，蓍誓，施的副本](./筮埘，释师，示世，贳祀，蓍誓，施的副本.jpg)
+
+https://github.com/guhhhhaa/MalkuthKivurahOlam_NgaA-ALaTha-AZhaThaYa_ABOZPEZKAS_PadmaSambhava_GuruRinpoche
+
+
+
+![阿波兹派兹卡斯深渊地图](./阿波兹派兹卡斯深渊地图.jpg)
+
+![筮埘，释师，示世，贳祀，蓍誓，施](./筮埘，释师，示世，贳祀，蓍誓，施.jpg)
+
+![筮埘，释师，示世，贳祀，蓍誓，施的副本](./筮埘，释师，示世，贳祀，蓍誓，施的副本.jpg)
