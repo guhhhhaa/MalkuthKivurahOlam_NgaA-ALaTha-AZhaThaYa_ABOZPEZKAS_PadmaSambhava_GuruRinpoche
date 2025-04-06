@@ -51,3 +51,5 @@ https://github.com/guhhhhaa/MalkuthKivurahOlam_NgaA-ALaTha-AZhaThaYa_ABOZPEZKAS_
 ![筮埘，释师，示世，贳祀，蓍誓，施](./筮埘，释师，示世，贳祀，蓍誓，施.jpg)
 
 ![筮埘，释师，示世，贳祀，蓍誓，施的副本](./筮埘，释师，示世，贳祀，蓍誓，施的副本.jpg)
+
+![登记文件](./登记文件.jpg)
