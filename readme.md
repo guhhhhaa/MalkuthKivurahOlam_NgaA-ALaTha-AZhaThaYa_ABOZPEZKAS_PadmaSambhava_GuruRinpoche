@@ -50,4 +50,4 @@ https://github.com/guhhhhaa/MalkuthKivurahOlam_NgaA-ALaTha-AZhaThaYa_ABOZPEZKAS_
 
 
 
-![登记文件 筮埘，释师，示世，贳祀，蓍誓，施](./登记文件 筮埘，释师，示世，贳祀，蓍誓，施.jpg)
+![登记文件-筮埘-释师-示世-贳祀-蓍誓-施](./登记文件-筮埘-释师-示世-贳祀-蓍誓-施.jpg)
